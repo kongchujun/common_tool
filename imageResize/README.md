@@ -1,5 +1,5 @@
 # how to use it
-cd imageResize
+`cd imageResize`
 ## use go install command to install it
 go install .
 ## how to find it
